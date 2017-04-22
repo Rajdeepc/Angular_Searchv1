@@ -1,0 +1,5 @@
+To Run this Demo:
+
+npm start
+
+This demo is to do a Angular Search over name over the data called from an API and can do a toggle sort 
